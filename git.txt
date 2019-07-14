@@ -2,3 +2,9 @@
 
 
 第一次修改
+
+
+git config --global user.name "hh8190"
+
+git config --global user.email "819015836@qq.com"
+
