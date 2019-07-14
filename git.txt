@@ -8,3 +8,18 @@ git config --global user.name "hh8190"
 
 git config --global user.email "819015836@qq.com"
 
+git config --global user.name "qin10086"
+
+git config --global user.email "5006665186@qq.com"
+
+更新
+git pull origin master
+
+删除文件找回
+git reset HEAD ceshi/new.txt　  标记文件 ceshi/new.txt
+git checkout ceshi/new.txt    找回文件ceshi/new.txt
+如果我们不知道之前删除了哪些文件或则文件夹，可以用如下命令查看到：
+git status 
+
+
+
